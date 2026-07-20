@@ -1,16 +1,79 @@
-## Hi there 👋
+# Olá! Eu sou Luã Kaique 👋
 
-<!--
-**LuaKaiqueSilva/LuaKaiqueSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Engenharia Física na Universidade Federal de Goiás (UFG).**
 
-Here are some ideas to get you started:
+**Automação • Análise de Dados • Computação Científica**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou desenvolvedor Python com foco em **automação de processos**, **análise de dados**, **computação científica** e **machine learning**.
+
+Atualmente estou construindo um portfólio de projetos voltados para resolver problemas reais por meio de software, desde ferramentas de automação para empresas até aplicações de computação científica.
+
+Meu objetivo é desenvolver soluções que economizem tempo, automatizem tarefas repetitivas e transformem dados em informações úteis para a tomada de decisões.
+
+---
+
+## 🚀 Atualmente estudando
+
+- Automação de Processos com Python
+- Análise de Dados
+- Computação Científica
+- Machine Learning
+- Engenharia de Software
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+- Python
+
+### Ciência de Dados
+
+- NumPy
+- Pandas
+- Matplotlib
+
+### Machine Learning
+
+- TensorFlow
+- Keras
+
+### Computação de Alto Desempenho
+
+- Numba
+
+### Banco de Dados
+
+- SQLite
+
+### Ferramentas
+
+- Git
+- Linux
+- VS Code
+
+---
+
+## 📌 Projetos em destaque
+
+🚧 Em desenvolvimento
+
+- 📈 Price Monitor — Monitoramento automático de preços utilizando web scraping e dashboard interativo.
+- 📄 Invoice Organizer — Organização inteligente de notas fiscais e boletos.
+- 📊 CSV Analyzer — Ferramenta para análise e visualização de dados em arquivos CSV.
+- 🤖 Automation Toolkit — Coleção de ferramentas para automação de tarefas.
+- 🧬 Predator–Prey Simulation — Simulação computacional desenvolvida durante minha iniciação científica.
+
+---
+
+## 🎯 Objetivos
+
+Construir ferramentas úteis para empresas, pesquisadores e profissionais, aplicando boas práticas de desenvolvimento de software e utilizando Python como principal tecnologia.
+
+---
+
+## 📫 Contato
+
+- 📧 **luakaiquedasilva@gmail.com**
+- 💼 LinkedIn *(em breve)*
