@@ -57,9 +57,12 @@ Meu objetivo é desenvolver soluções que economizem tempo, automatizem tarefas
 
 ## 📌 Projetos em destaque
 
-🚧 Em desenvolvimento
+✅Concluidos :
 
-- 📈 Price Monitor — Monitoramento automático de preços utilizando web scraping e dashboard interativo.
+- 📈 Price Monitor — Monitoramento automático de preços utilizando web scraping e dashboard interativo: https://github.com/LuaKaiqueSilva/price-monitor
+
+🚧 Em desenvolvimento :
+
 - 📄 Invoice Organizer — Organização inteligente de notas fiscais e boletos.
 - 📊 CSV Analyzer — Ferramenta para análise e visualização de dados em arquivos CSV.
 - 🤖 Automation Toolkit — Coleção de ferramentas para automação de tarefas.
