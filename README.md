@@ -1,82 +1,42 @@
-# Olá! Eu sou Luã Kaique 👋
+# Olá, eu sou Luã Kaique 👋
 
-**Estudante de Engenharia Física na Universidade Federal de Goiás (UFG).**
+Sou estudante de Engenharia Física na Universidade Federal de Goiás (UFG) e desenvolvedor Python. Gosto de criar ferramentas que automatizam tarefas, organizam informações e ajudam a transformar dados em algo útil.
 
-**Automação • Análise de Dados • Computação Científica**
+Tenho interesse em projetos freelance de automação com Python, tratamento de dados, integração de sistemas e ferramentas internas para pequenos negócios.
 
-Sou desenvolvedor Python com foco em **automação de processos**, **análise de dados**, **computação científica** e **machine learning**.
+## Projetos em destaque
 
-Atualmente estou construindo um portfólio de projetos voltados para resolver problemas reais por meio de software, desde ferramentas de automação para empresas até aplicações de computação científica.
+### 📈 [Price Monitor](https://github.com/LuaKaiqueSilva/price-monitor)
 
-Meu objetivo é desenvolver soluções que economizem tempo, automatizem tarefas repetitivas e transformem dados em informações úteis para a tomada de decisões.
+Dashboard local para acompanhar preços de produtos em lojas brasileiras. Registra histórico em SQLite, mostra gráficos e permite definir preço alvo. Inclui scrapers para KaBuM!, TerabyteShop e Pichau.
 
----
+**Tecnologias:** Python, Streamlit, SQLite, pandas, web scraping.
 
-## 🚀 Atualmente estudando
+### 📄 [Invoice Organizer](https://github.com/LuaKaiqueSilva/invoice-organizer)
 
-- Automação de Processos com Python
-- Análise de Dados
-- Computação Científica
-- Machine Learning
-- Engenharia de Software
+Aplicação local para organizar notas fiscais e boletos em PDF. Extrai campos comuns, permite revisar os dados, pesquisar documentos e exportar a lista. Inclui OCR local opcional para PDFs digitalizados.
 
----
+**Tecnologias:** Python, Streamlit, SQLite, pypdf, Tesseract OCR.
 
-## 🛠️ Tecnologias
+### 📊 [Planilha Clara](https://github.com/LuaKaiqueSilva/spreadsheet-cleaner)
 
-### Linguagens
+Painel para limpar arquivos CSV e Excel. Permite escolher as regras de limpeza, revisar as linhas afetadas e baixar os dados tratados com um relatório de qualidade.
 
-- Python
+**Tecnologias:** Python, Streamlit, pandas, openpyxl.
 
-### Ciência de Dados
+## Tecnologias e ferramentas
 
-- NumPy
-- Pandas
-- Matplotlib
+- **Linguagem:** Python
+- **Dados:** pandas, NumPy, Matplotlib
+- **Aplicações:** Streamlit
+- **Persistência:** SQLite
+- **Ferramentas:** Git, Linux
 
-### Machine Learning
+## Formação
 
-- TensorFlow
-- Keras
+Engenharia Física — Universidade Federal de Goiás (UFG)
 
-### Computação de Alto Desempenho
+## Contato
 
-- Numba
-
-### Banco de Dados
-
-- SQLite
-
-### Ferramentas
-
-- Git
-- Linux
-- VS Code
-
----
-
-## 📌 Projetos em destaque
-
-✅Concluidos :
-
-- 📈 Price Monitor — Monitoramento automático de preços utilizando web scraping e dashboard interativo: https://github.com/LuaKaiqueSilva/price-monitor
-
-🚧 Em desenvolvimento :
-
-- 📄 Invoice Organizer — Organização inteligente de notas fiscais e boletos.
-- 📊 CSV Analyzer — Ferramenta para análise e visualização de dados em arquivos CSV.
-- 🤖 Automation Toolkit — Coleção de ferramentas para automação de tarefas.
-- 🧬 Predator–Prey Simulation — Simulação computacional desenvolvida durante minha iniciação científica.
-
----
-
-## 🎯 Objetivos
-
-Construir ferramentas úteis para empresas, pesquisadores e profissionais, aplicando boas práticas de desenvolvimento de software e utilizando Python como principal tecnologia.
-
----
-
-## 📫 Contato
-
-- 📧 **luakaiquedasilva@gmail.com**
-- 💼 LinkedIn *(em breve)*
+- **E-mail:** [luakaiquedasilva@gmail.com](mailto:luakaiquedasilva@gmail.com)
+- **GitHub:** [LuaKaiqueSilva](https://github.com/LuaKaiqueSilva)
